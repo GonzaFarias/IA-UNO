@@ -1,2 +1,2 @@
 # IA-UNO
-Inteligencia Artificial 
+Proyectos de la materia Inteligencia Artificial 
