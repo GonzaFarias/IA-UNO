@@ -6,4 +6,5 @@
 - Prolog
 - Sistemas de Producción
 - Redes Neuronales
-- ...
+- Algoritmos Geneticos
+- Robotica
